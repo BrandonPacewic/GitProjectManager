@@ -1,8 +1,8 @@
 # Linux Git Project Manager
 
-## Linux script for managing a large amount of git projects
+Linux script for managing a large amount of git projects.
 
-### Features
+## Features
 
 - Easy searching through projects.
   - With alphabetical sorting and tag filtering.
@@ -13,7 +13,7 @@
 - Automatic updating of projects.
   - So you never need to wounder if you are on the most recent version or not.
 
-### Installation
+## Installation
 
 Clone the repository and run the install command:
 
@@ -21,12 +21,12 @@ Clone the repository and run the install command:
 sudo ./install.sh
 ```
 
-### Contributing
+## Contributing
 
 This project is still a work in progress. If you have any suggestions for features please raise an issue.
 I will provide a guide for opening pr's in the future once this project gets up and running.
 
-### License
+## License
 
 Copyright (c) Brandon Pacewic
 
