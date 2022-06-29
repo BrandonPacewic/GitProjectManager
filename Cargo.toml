@@ -1,0 +1,15 @@
+# Copyright (c) Brandon Pacewic
+# SPDX-License-Identifier: MIT
+
+[package]
+name = "GitProjectManager"
+version = "0.1.0"
+authors = ["Brandon Pacewic"]
+
+edition = "2021"
+
+description = "A command line project manager for git linux"
+license = "MIT"
+
+[dependencies]
+clap = { version = "3.2.7", features = ["derive"] }
