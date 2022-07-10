@@ -1,6 +1,6 @@
 # Linux Git Project Manager
 
-Linux script for managing a large amount of git projects.
+Linux script for managing a large amount of git projects from the command line.
 
 ## Features
 
