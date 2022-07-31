@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 [package]
-name = "GitProjectManager"
+name = "git_project_manager"
 version = "0.1.0"
 authors = ["Brandon Pacewic"]
 
